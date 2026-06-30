@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Output files
+output/*
+!output/.gitkeep
+
+# User input
+input/recruiter/*
+!input/recruiter/.gitkeep
+
+input/resumes/*
+!input/resumes/.gitkeep
+
+# User configs (optional)
+configs/*
+!configs/.gitkeep
